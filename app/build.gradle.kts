@@ -64,7 +64,7 @@ android {
 
     defaultConfig {
         applicationId = "com.byd.tripstats"
-        minSdk = 29
+        minSdk = 28
         targetSdk = 29
         versionCode = computedVersionCode
         versionName = computedVersionName
